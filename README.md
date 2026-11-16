@@ -54,5 +54,3 @@ Melhor modelo: 11 entradas → 1 camada oculta de 16 neurônios (tanh) → 1 sa�
 - `mlp_regressao.py` — código-fonte da regressão
 - `dados/winequality-red.csv` — base de dados
 - `resultados_regressao/real_vs_previsto.png`, `residuos.png`, `curva_aprendizado.png`, `metricas.png`, `metricas.csv`
-- `mlp_classificacao.py` e `resultados/` — versão anterior (classificação, Breast Cancer Wisconsin),
-  mantida como extra
