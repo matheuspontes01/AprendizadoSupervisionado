@@ -3,6 +3,9 @@
 Rede neural **Perceptron de Múltiplas Camadas (MLP)** treinada com scikit-learn para
 **prever a nota de qualidade de vinhos tintos** a partir de medidas físico-químicas.
 
+## Vídeo da apresentação
+[▶️ Assistir à apresentação](video/apresentacao.mp4) (4 min 28 s)
+
 ## Base de dados
 **Wine Quality (vinho tinto)** — UCI Machine Learning Repository
 (<https://archive.ics.uci.edu/dataset/186/wine+quality>), arquivo `dados/winequality-red.csv`.
